@@ -20,6 +20,8 @@ mono_crash.*.json
 #debug/
 #target/
 
+assets/scripts/rust/target/.rustc_info.json
+assets/scripts/rust/target/CACHEDIR.TAG
 assets/scripts/rust/target/debug/.fingerprint
 assets/scripts/rust/target/debug/build
 assets/scripts/rust/target/debug/deps
