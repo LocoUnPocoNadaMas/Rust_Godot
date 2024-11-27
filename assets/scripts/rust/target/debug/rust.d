@@ -1,0 +1,1 @@
+F:\Users\patri\Documents\Godot\rust_in_godot\assets\scripts\rust\target\debug\rust.dll: F:\Users\patri\Documents\Godot\rust_in_godot\assets\scripts\rust\src\lib.rs F:\Users\patri\Documents\Godot\rust_in_godot\assets\scripts\rust\src\player.rs
